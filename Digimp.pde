@@ -1,3 +1,7 @@
+// Digimp
+// Graphic improvisation instrument created by Raphael Bastide
+// http://github.com/raphaelbastide/Digimp
+
 import themidibus.*; // MIDI
 import processing.video.*;
 MovieMaker mm;  // Declare MovieMaker object to generate QT movie
